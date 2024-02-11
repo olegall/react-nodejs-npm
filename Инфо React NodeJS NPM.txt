@@ -1,0 +1,64 @@
+REACT
+NET x React
+цепочка: запрос /fetch-data - AppRoutes.js - fetchdata.js /weatherforecast - WeatherForecastController.cs Get - fetchdata.js перерендер
+
+NPM
+npm install - update each dependency in package.json to the latest version
+
+https://habr.com/ru/post/506282/
+https://habr.com/ru/post/506680/
+DI in node js
+async await on nodejs
+multithreading in nodejs
+eventloop in nodejs
+мапперы
+ORM
+typescript in Nodejs
+ООП в JS
+архитектура nodejs приложений 
+
+***** Для Node JS *****
+юнит тесты
+MVC
+паттерны проектирования, js
+популярные библиотеки
+microservices
+SOLID
+
+
+----- установка -----
+https://nodejs.org/download/release/v13.14.0/
+https://blog.logrocket.com/nodejs-expressjs-postgresql-crud-rest-api-example/
+
+
+https://itvdn.com/ru/blog/article/aspnet-vs-nodejs
+
+
+----- Команды -----
+node D:\Работа\NodeJS\app.js
+перезапустить app.js - ctrl+c на окне
+
+----- Что умеет -----
+Что умеет Node JS
+посмотреть статьи хабр
+особеноости node js
+основные фреймворки node js
+экосистема ноджс
+возможности экспресс.джс
+отладка, стектрейс
+
+----- Технологии -----
+юнит тесты
+DI https://tsh.io/blog/dependency-injection-in-node-js/
+паттерны
+mvc
+orm
+аутентификация/авторизация
+linq
+IDE
+дебаггинг. асинхронный код
+многопоточность
+
+
+стоит ли переходить на другой стек?
+сколько переучиваться на nodejs?
